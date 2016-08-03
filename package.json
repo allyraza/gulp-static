@@ -1,0 +1,45 @@
+{
+  "name": "gulp-site",
+  "version": "0.0.1",
+  "description": "Gulp site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=6.0.0",
+    "npm": ">=3.0.0"
+  },
+  "keywords": [
+    "nunjucks",
+    "node",
+    "gulp",
+    "scss"
+  ],
+  "author": "Ali Raza",
+  "license": "Commercial",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "browser-sync": "^2.8.2",
+    "eslint-plugin-jquery": "^1.0.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-cache": "^0.3.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jasmine": "^2.4.0",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rollup": "^2.3.0",
+    "gulp-sass": "^2.0.6",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "jasmine": "^2.4.1",
+    "jasmine-spec-reporter": "^2.5.0",
+    "minimist": "^1.1.3"
+  }
+}
